@@ -1,9 +1,6 @@
 # PhatAC
 A Server Emulator for Asheron's Call
 
-# Contact
-Chat with us on Discord at https://discord.gg/ve6uAKt as new functionality continues to be added.
-
 # Compatibility
 Updated to work with Throne of Destiny as of 2017. Make sure you have full game data files, you can download them from the official website.
 
@@ -39,3 +36,6 @@ etc.
 
 # About
 This code was developed during the early 2000's prior to Throne of Destiny. I held on to it privately for more than a decade. When I heard Asheron's Call was nearing an end, I updated it to work with Throne of Destiny. The primary functionality included is the ability to explore dungeons and the landscape.
+
+# Contact
+Chat with us on Discord at https://discord.gg/ve6uAKt as new functionality continues to be added.
