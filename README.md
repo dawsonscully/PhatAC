@@ -1,6 +1,9 @@
 # PhatAC
 A Server Emulator for Asheron's Call
 
+# Contact
+Chat with us on Discord at https://discord.gg/ve6uAKt as new functionality continues to be added.
+
 # Compatibility
 Updated to work with Throne of Destiny as of 2017. Make sure you have full game data files, you can download them from the official website.
 
@@ -22,7 +25,7 @@ Updated to work with Throne of Destiny as of 2017. Make sure you have full game 
 OR
 
 1. From the command line type:
-acclient.exe -h [server ip] -p [server port] -a username:password 
+acclient.exe -h [server ip] -p [server port] -a username:password -rodat off
 
 # How to use Ingame
 Type !help in chat to get a list of commands.
