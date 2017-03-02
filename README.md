@@ -35,7 +35,7 @@ For example:
 etc.
 
 # About
-This code was developed during the early 2000's prior to Throne of Destiny. I held on to it privately for more than a decade. When I heard Asheron's Call was nearing an end, I updated it to work with Throne of Destiny. The primary functionality included is the ability to explore dungeons and the landscape.
+This code was developed during the early 2000's prior to Throne of Destiny. I held on to it privately for more than a decade. When I heard Asheron's Call was nearing an end, I updated it to work with Throne of Destiny. The primary functionality included is the ability to explore dungeons and the landscape. The original code was written as a young teenager and was never intended to be released. For that reason, much of the coding reflects that of a new programmer.
 
 # Contact
 Chat with us on Discord at https://discord.gg/ve6uAKt as new functionality continues to be added.
